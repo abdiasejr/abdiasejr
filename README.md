@@ -33,5 +33,7 @@ I'm Full Stack Developer in constantly learning, passionate about technology, we
 > > 
 > > ![image](https://user-images.githubusercontent.com/59884269/147030697-ddef954b-cf7d-49a0-8df0-620196c6bcb4.png) ![image](https://user-images.githubusercontent.com/59884269/147030732-e06aa4d5-dcd7-4262-bd04-78a3bce2418c.png) 
 >
+> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdiasejr)](https://github.com/abdiasejr/github-readme-stats)
+>
 > ### Contact ME!
 > abdiasejr@gmail.com
